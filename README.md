@@ -13,19 +13,19 @@
 
 ### 影视
 
-- [Gimy TV 剧迷影視](./widgets/video-gimy.zip)
-- [欧乐影院](./widgets/video-olevod.zip)
-- [555电影](./widgets/video-555dy.zip)
-- [爱你短剧](./widgets/video-ainidj.zip)
-- [动漫世界](./widgets/video-animeworld.zip)
+- [Gimy TV 剧迷影視](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-gimy.zip)
+- [欧乐影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-olevod.zip)
+- [555电影](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
+- [爱你短剧](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)
+- [动漫世界](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-animeworld.zip)
 
 ### IPTV
 
-- [电视家v4](./widgets/iptv-tvboxv4.zip)
-- [电视家v6](./widgets/iptv-tvboxv6.zip)
+- [电视家v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
+- [电视家v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
 
 ### 直播
 
-- [Bilibili](./widgets/live-bilibili.zip)
-- [虎牙](./widgets/live-huya.zip)
-- [斗鱼](./widgets/live-douyu.zip)
+- [Bilibili](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-bilibili.zip)
+- [虎牙](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-huya.zip)
+- [斗鱼](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-douyu.zip)
