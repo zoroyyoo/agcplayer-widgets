@@ -18,11 +18,14 @@
 - [555电影](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
 - [爱你短剧](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)
 - [动漫世界](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-animeworld.zip)
+- [影视TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-yingshitv.zip)
+- [海龟TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
 
 ### IPTV
 
 - [电视家v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
 - [电视家v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
+- [YanG源](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-YanG.zip) - 注意：若播放画面提示ip限制，尝试切换到VLC播放器
 
 ### 直播
 
