@@ -35,3 +35,4 @@
 
 ### 媒体服务器
 - [Emby](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/server-emby.zip)
+- [Jellyfin](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/server-jellyfin.zip)
