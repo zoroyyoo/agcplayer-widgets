@@ -32,3 +32,6 @@
 - [Bilibili](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-bilibili.zip)
 - [虎牙](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-huya.zip)
 - [斗鱼](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-douyu.zip)
+
+### 媒体服务器
+- [Emby](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/server-emby.zip)
