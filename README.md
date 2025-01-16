@@ -17,7 +17,7 @@
 - [欧乐影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-olevod.zip)
 - [555电影](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
 - [爱你短剧](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)
-- [动漫世界](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-animeworld.zip)
+- 动漫世界 ~~(已失效)~~
 - [影视TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-yingshitv.zip)
 - [海龟TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
 
