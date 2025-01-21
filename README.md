@@ -5,6 +5,12 @@
   <br>
 </p>
 
+<p align="center">
+  <a href="./README.en.md">English</a>
+</p>
+
+---
+
 ## AGC Player Widgets
 
 > [AGC Player](https://agcplayer.com) 社区小组件集合
