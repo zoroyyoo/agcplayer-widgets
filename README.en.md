@@ -31,7 +31,7 @@
 
 - [IPTV v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
 - [IPTV v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
-- [YanG](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-YanG.zip) - Note: If playback shows IP restriction, try switching to the VLC player.
+- YanG ~~(No longer available)~~ - Note: If playback shows IP restriction, try switching to the VLC player.
 
 ### Live Streaming
 
@@ -42,3 +42,6 @@
 ### Media Server
 - [Emby](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/server-emby.zip)
 - [Jellyfin](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/server-jellyfin.zip)
+
+### Storage
+- [115](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/storage-115.zip)
