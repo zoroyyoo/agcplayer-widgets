@@ -32,7 +32,7 @@
 
 - [电视家v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
 - [电视家v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
-- YanG源 ~~(已失效)~~ - 注意：若播放画面提示ip限制，尝试切换到VLC播放器
+- [YanG源](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-YanG.zip) - 注意：若播放画面提示ip限制，尝试切换到VLC播放器
 
 ### 直播
 

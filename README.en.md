@@ -31,7 +31,7 @@
 
 - [IPTV v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
 - [IPTV v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
-- YanG ~~(No longer available)~~ - Note: If playback shows IP restriction, try switching to the VLC player.
+- [YanG](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-YanG.zip) - Note: If playback shows IP restriction, try switching to the VLC player.
 
 ### Live Streaming
 
