@@ -22,7 +22,7 @@
 - [Gimy TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-gimy.zip)
 - [OLEVOD](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-olevod.zip)
 - [555DY](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
-- ainidj ~~(No longer available)~~
+- [ainidj](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)
 - Anime World ~~(No longer available)~~
 - [yingshi TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-yingshitv.zip)
 - [haigui TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
