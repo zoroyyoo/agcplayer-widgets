@@ -15,6 +15,30 @@
 
 > [AGC Player](https://agcplayer.com) Community Widget Collection
 
+## Disclaimer
+
+All resources in this repository are shared by various contributors from the internet. If there is any infringement, please contact us for removal.
+
+### 1. Terms of Use
+Anyone who accesses, views, uses, copies, or modifies the content of this repository should carefully read this disclaimer. By using this repository in any way, you are deemed to have accepted all terms of this disclaimer. The repository administrators reserve the right to modify or supplement this disclaimer at any time.
+
+### 2. Liability Disclaimer
+- The repository administrators **do not guarantee the legality, accuracy, completeness, or validity** of the content in this repository. Users should make their own judgment.  
+- The content in this repository is **for testing, learning, and research purposes only**. Commercial use is strictly prohibited, and it must not be used for **any activities that violate the laws and regulations of any country, region, or organization**.  
+- **No public accounts, self-media, or other platforms are allowed to republish or distribute the content in any form.**  
+- **The use of this repository within the territory of the People's Republic of China is strictly prohibited. Users shall bear all consequences on their own.**  
+
+### 3. Third-Party Responsibility
+- This repository may reference third-party hardware, software, or services, but it has **no direct or indirect affiliation** with them.  
+- This repository only provides objective descriptions of deployment and usage processes and does not imply endorsement or support for any third-party products.  
+- Users bear full responsibility for any consequences arising from the use of third-party hardware or software, which are entirely unrelated to this repository and its administrators.  
+
+### 4. Obligation to Delete Content
+- Any individual or organization using the content of this repository **must complete their learning and research within 24 hours and delete all related content immediately**.  
+- If specific functionality is required, users should develop their own solutions.  
+- Any modifications or derivative works based on this repository are considered independent actions by individuals or organizations. The repository and its administrators bear no responsibility for any resulting consequences.
+
+
 ## Resource List
 
 ### Movies and TV Shows
