@@ -47,7 +47,7 @@ Anyone who accesses, views, uses, copies, or modifies the content of this reposi
 - [OLEVOD](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-olevod.zip)
 - [555DY](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
 - [ainidj](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)
-- Anime World ~~(No longer available)~~
+- [Anime World](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-animeworld.zip)
 - [yingshi TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-yingshitv.zip)
 - [haigui TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
 - [duboku](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-duboku.zip)
