@@ -1,0 +1,44 @@
+name: Check Widgets Available
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天运行一次
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '.github/**'
+    # 只在 commit message 包含 [metadata] 时触发
+    tags:
+      - '[metadata]*'
+
+jobs:
+  check-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 安装依赖
+        run: cd script && npm install
+
+      - name: 运行 ZIP 检测
+        run: cd script && node check.js
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          release_name: Release ${{ github.ref_name }}
+          draft: false
+          prerelease: false
+          files: |
+            script/metadata.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

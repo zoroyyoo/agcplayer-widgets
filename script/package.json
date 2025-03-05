@@ -1,0 +1,12 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.8.1"
+  }
+}
