@@ -137,7 +137,10 @@ async function main() {
         });
     }
     // 将结果写入 metadata.json
-    fs.writeFileSync(path.join(__dirname, 'metadata.json'), JSON.stringify(metadata, null, 2));
+    fs.writeFileSync(path.join(__dirname, 'metadata.json'), JSON.stringify({
+        time: Date.now(),
+        list: metadata
+    }, null, 2));
 
     console.log('✅ metadata.json 生成完毕:', METADATA_PATH);
 
