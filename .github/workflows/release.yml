@@ -11,7 +11,7 @@ on:
       - '.github/**'
     # 只在 commit message 包含 [metadata] 时触发
     tags:
-      - '[metadata]*'
+      - '*[metadata]*'
 
 permissions:
   contents: write  # 允许 GitHub Actions 访问 Releases API
