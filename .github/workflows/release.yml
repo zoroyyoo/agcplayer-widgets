@@ -33,13 +33,23 @@ jobs:
 
       - name: 运行 ZIP 检测
         run: cd script && node check.js
+      
+      - name: Generate Tag Name
+        id: generate_tag
+        run: |
+          # 获取当前日期
+          DATE=$(date +'%Y.%m.%d')
+          # 获取最新提交的数量
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          # 合成标签名
+          TAG_NAME="rel_${DATE}.${COMMIT_COUNT}"
+          echo "TAG_NAME=${TAG_NAME}" >> $GITHUB_ENV
 
       - name: Create GitHub Release
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref_name }}
-          release_name: Release ${{ github.ref_name }}
+          release_name: Release ${{ env.TAG_NAME }}
           draft: false
           prerelease: false
           files: |
