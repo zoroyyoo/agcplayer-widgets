@@ -12,6 +12,9 @@ on:
     tags:
       - '[metadata]*'
 
+permissions:
+  contents: write  # 允许 GitHub Actions 访问 Releases API
+
 jobs:
   check-zip:
     runs-on: ubuntu-latest
