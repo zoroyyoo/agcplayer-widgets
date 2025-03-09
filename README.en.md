@@ -51,6 +51,8 @@ Anyone who accesses, views, uses, copies, or modifies the content of this reposi
 - [yingshi TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-yingshitv.zip)
 - [haigui TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
 - [duboku](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-duboku.zip)
+- [修罗影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-xlys.zip)
+
 ### IPTV
 
 - [IPTV v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)

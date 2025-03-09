@@ -51,6 +51,7 @@
 - [影视TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-yingshitv.zip)
 - [海龟TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
 - [独播库](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-duboku.zip)
+- [修罗影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-xlys.zip)
 
 ### IPTV
 
