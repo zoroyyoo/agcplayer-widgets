@@ -1,12 +1,16 @@
-<p align="center">
-  <br>
-  <img width="400" src="./logo.png" alt="logo of agc player widgets repository">
-  <br>
-  <br>
-</p>
+
+<div align=center>
+    
+[**简体中文 🇨🇳**](README.md) / [**English 🇺🇸**](README.en.md)
+
+</div>
+<br>
 
 <p align="center">
-  <a href="./README.md">中文介绍</a>
+  <br>
+  <img width="160" src="./logo.png" alt="logo of agc player widgets repository">
+  <br>
+  <br>
 </p>
 
 ---
@@ -44,6 +48,7 @@ Anyone who accesses, views, uses, copies, or modifies the content of this reposi
 ### Movies and TV Shows
 
 - [Gimy TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-gimy.zip)
+- [Gimy TV XPath](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-gimy-xpath.zip)
 - [OLEVOD](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-olevod.zip)
 - [555DY](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
 - [ainidj](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)

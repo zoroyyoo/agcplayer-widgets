@@ -1,12 +1,16 @@
-<p align="center">
-  <br>
-  <img width="400" src="./logo.png" alt="logo of agc player widgets repository">
-  <br>
-  <br>
-</p>
+
+<div align=center>
+    
+[**简体中文 🇨🇳**](README.md) / [**English 🇺🇸**](README.en.md)
+
+</div>
+<br>
 
 <p align="center">
-  <a href="./README.en.md">English</a>
+  <br>
+  <img width="100" src="./logo.png" alt="logo of agc player widgets repository">
+  <br>
+  <br>
 </p>
 
 ---
@@ -44,6 +48,7 @@
 ### 影视
 
 - [Gimy TV 剧迷影視](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-gimy.zip)
+- [Gimy TV 剧迷影視 - XPath](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-gimy-xpath.zip)
 - [欧乐影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-olevod.zip)
 - [555电影](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-555dy.zip)
 - [爱你短剧](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-ainidj.zip)
