@@ -63,7 +63,7 @@ Anyone who accesses, views, uses, copies, or modifies the content of this reposi
 - [IPTV v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
 - [IPTV v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
 - [YanG](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-YanG.zip)
-
+- [IPTV custom source](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv.zip)
 ### Live Streaming
 
 - [Bilibili](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/live-bilibili.zip)

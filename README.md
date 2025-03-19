@@ -63,6 +63,7 @@
 - [电视家v4](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv4.zip)
 - [电视家v6](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-tvboxv6.zip)
 - [YanG源](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv-YanG.zip)
+- [IPTV 自定义源](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/iptv.zip)
 
 ### 直播
 
