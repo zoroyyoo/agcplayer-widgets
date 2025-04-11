@@ -57,7 +57,7 @@ Anyone who accesses, views, uses, copies, or modifies the content of this reposi
 - [haigui TV](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-haiguitv.zip)
 - [duboku](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-duboku.zip)
 - [修罗影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-xlys.zip)
-- [熊猫影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-xm08.zip.zip)
+- [熊猫影院](https://github.com/zoroyyoo/agcplayer-widgets/raw/refs/heads/main/widgets/video-xm08.zip)
 
 ### IPTV
 
